@@ -1,0 +1,16 @@
+376a9cf716a4904376fac78659e3a317 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+bfe8d00b1ffb77767ae4173c4cd6df6f *R/RDIDQ-internal.R
+e11d3573dc0fd9394a5cb1d2b4b084d6 *R/cat_identifier.R
+57f06a355693adbae1e141300839870f *R/didq_summry.R
+656cfd71479fd22c219291453ff8371a *R/ident_cat.R
+63106775e44af8571063dc243d27c181 *R/ident_cont.R
+b9788ad4d70fd7324c4aff27f43fbb2f *R/sumry_categorical.R
+acdb8b86b14bc2f6e24a821b50206909 *R/sumry_continous.R
+eaa9a4a40d0afff6fcce1c3756741172 *man/RDIDQ-package.Rd
+53cfa054448374a2fb7c538ff78c250b *man/cat_identifier.Rd
+e7633c2ceeb1ac2895411cef30af9e03 *man/didq_summry.Rd
+7c7ce04909138381152dc07b2916b3c6 *man/ident_cat.Rd
+4dbe22066b0210254f5ebb912cecc500 *man/ident_cont.Rd
+ee82b3120fcfeae3b476e6265b1bff6d *man/sumry_categorical.Rd
+e786d5e1b50e58971095b596c6c9f07d *man/sumry_continous.Rd
